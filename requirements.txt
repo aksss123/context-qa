@@ -1,0 +1,11 @@
+flask
+requests
+beautifulsoup4
+openai
+pinecone-client
+flask-cors
+python-dotenv
+gunicorn
+sseclient-py
+boto3
+pymupdf
